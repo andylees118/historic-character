@@ -1,0 +1,3 @@
+function submitCharacter(){
+	return true;
+}
